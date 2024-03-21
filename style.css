@@ -126,6 +126,12 @@
     display: inline-block;
     background: var(--color-background-opcoes);
     border-radius: 30px;
+    transition: 0.3s;
+  }
+
+  .card:hover {
+    transform: scale(1.05);
+    cursor: pointer;
   }
   
   .card i {
@@ -211,6 +217,11 @@
     background: var(--color-background);
     border-radius: 18px;
     padding: 5px 50px 5px 50px;
+    transition: 0.3s;
+  }
+
+  .list-1:hover {
+    transform: scale(1.01);
   }
 
   .list-1 img {
@@ -228,6 +239,11 @@
     background: var(--color-background-navbar);
     border-radius: 18px;
     padding: 5px 50px 5px 50px;
+    transition: 0.3s;
+  }
+
+  .list-2:hover {
+    transform: scale(1.02);
   }
 
   .list-2 img {
@@ -253,8 +269,13 @@
   .historic-transfer img {
     display: flex;
     margin-top: 80px;
-    margin-left: 70px;
+    margin-left: 60px;
     width: 250px;
+    transition: 0.3s;
+  }
+
+  .historic-transfer img:hover{
+    transform: scale(1.03);
   }
 
   .historic-transfer h1 {
