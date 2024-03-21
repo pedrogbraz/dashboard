@@ -1,14 +1,14 @@
 <h1 align="left"> Dashboard </h1>
 
 <p align="left">
-<b>Dashboard</b> que desenvolvi do zero usando apenas <b>HTML, CSS</b><br/>
+<b>Dashboard</b> que desenvolvi do zero usando apenas FIGMA para fazer o Layout e <b>HTML, CSS</b><br/>
 Apenas peguei ideias e desenvolvi um layout no figma, e depois refiz ele porém em HTML e CSS, ainda falta eu fazer a responsividade para mobiles.
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="assets/layout-figma.png" width="100%">
+  <img alt="projeto DevLinks" src="assets/layoutdofigma.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias Usadas
